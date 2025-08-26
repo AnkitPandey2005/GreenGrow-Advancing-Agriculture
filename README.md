@@ -85,6 +85,7 @@ Invalid inputs trigger a **flash alert**.
 ---
 
 ## 📂 Folder Structure
+<pre>
 smart-crop-recommendation/
 │
 ├── app.py
@@ -101,6 +102,7 @@ smart-crop-recommendation/
 ├── home.png
 ├── result.png
 └── error.png
+</pre>
 ---
 
 ## 💡 Future Enhancements
